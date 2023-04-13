@@ -1,0 +1,21 @@
+body{
+    background-color:var(--cor-primaria);
+}
+
+.titulo_sobre{
+    font-size: 32px;
+    color: var(--cor-secundaria);
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 40px;
+}
+
+.sobre{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0px 80px;
+    color:aliceblue;
+}

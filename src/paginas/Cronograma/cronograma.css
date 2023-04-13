@@ -1,0 +1,36 @@
+body{
+    background-color:var(--cor-primaria);
+}
+
+.cronograma{
+    margin: 0px 180px;
+    height: 90vh;
+    padding: 10px;
+}
+
+.titulo_cronograma{
+    font-size: 32px;
+    color: var(--cor-secundaria);
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 40px;
+}
+
+#table_cronograma{
+    border: 1px solid rgb(230, 223, 223);
+  }
+  
+th, td, tr{
+    border: 1px solid rgb(228, 218, 218);
+    color: aliceblue;
+  }
+  
+ul{
+    background-color: rgb(242, 245, 242);
+    position: fixed;
+    left: 1500px;
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+  }
+  
